@@ -1,1 +1,2 @@
 # AbiertoCerrado
+En el codigo se refleja el principio desde la clase padre (producto), dando atributos universales como el nombre y el precio, esta parte es la parte cerrada porque no da pie a que se modifique el contenido de la clase, pero si da pie a que se incluyan nuevos objetos, es decir, la parte abierta, ya que, se permite que utilicen los atributos del padre sin modificarlo y ademas permite agregar aun más atributos.
